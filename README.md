@@ -1,3 +1,3 @@
 # Sadie-demo
 first project
-author: Sadiq khan
+author: Sadiq khan peshawar
